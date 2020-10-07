@@ -1,0 +1,48 @@
+[
+  {
+    "displayName": "Infrastructure",
+    "url": "/infrastructure",
+    "children": [
+      {
+        "displayName": "Troubleshooting",
+        "url": "/infrastructure/infrastructure-troubleshooting",
+        "children": [
+          {
+            "displayName": "No Data Appears",
+            "url": "/infrastructure/infrastructure-troubleshooting/troubleshoot-infrastructure/no-data-appears-infrastructure"
+          },
+          {
+            "displayName": "Authentication SAML-SSO",
+            "url": "/mobile-monitoring/new-relic-mobile-apps/mobile-app-features/authentication-partner-saml-sso-accounts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Mobile",
+    "url": "/mobile-apps",
+    "children": [
+      {
+        "displayName": "Alerts",
+        "url": "/mobile-apps/new-relic-mobile-apps/authentication-alerts",
+        "children": [
+          {
+            "displayName": "Alerting New Relic Mobile Apps",
+            "url": "/mobile-apps/newrelic-mobile-apps/authentication-alerts/alerting-new-relic-mobile-apps"
+          }
+        ]
+      },
+      {
+        "displayName": "Features",
+        "url": "/mobile-monitoring/new-relic-mobile-apps/mobile-app-features",
+        "children": [
+          {
+            "displayName": "Authentication SAML-SSO",
+            "url": "/mobile-monitoring/new-relic-mobile-apps/mobile-app-features/authentication-partner-saml-sso-accounts"
+          }
+        ]
+      }
+    ]
+  }
+]
