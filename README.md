@@ -1,7 +1,2 @@
-# Docs MMF 4 Nav Mockup
-
-![](mock-nav.png)
-
-## YAML Mock up and use cases
-
-![](nav-yaml-example.png)
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
